@@ -7,8 +7,8 @@ export default function AdminLayout() {
     }`;
 
   return (
-    <div className="min-h-screen flex bg-gray-100">
-      {/* Sidebar */}
+<div className="min-h-screen flex bg-white text-black">
+{/* Sidebar */}
       <aside className="w-64 bg-white border-r shadow-sm">
         <div className="p-6 font-bold text-2xl text-blue-600">PoLang Admin</div>
         <nav className="px-4 space-y-1">
